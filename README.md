@@ -1,1 +1,1 @@
-Attempt to generate readme file
+Obligatory readme file
